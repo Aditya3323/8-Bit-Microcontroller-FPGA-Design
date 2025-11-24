@@ -1,4 +1,4 @@
-# 8-Bit-Microcontroller-FPGA-Design
+# 8-Bit Microcontroller-FPGA Design
 
 This project implements a custom 8-bit microcontroller on an FPGA using VHDL/Verilog.
 It includes a simple RISC-style instruction set, an ALU, register file, program counter, control unit, and memory.
