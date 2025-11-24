@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Tools/ALU.vhd" \
+"../../../../Tools/CPU.vhd" \
+"../../../../Tools/CU.vhd" \
+"../../../../Tools/PORT.vhd" \
+"../../../../Tools/RAM.vhd" \
+"../../../../Tools/ROM.vhd" \
+"../../../../Tools/dir_ctrl.vhd" \
+"../../../../Tools/main_reg.vhd" \
+"../../../../Tools/pc.vhd" \
+"../../../../Tools/reg_4.vhd" \
+"../../../../Tools/cpu_tb.vhd" \
+
+# Do not sort compile order
+nosort
