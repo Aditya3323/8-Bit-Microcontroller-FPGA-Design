@@ -6,6 +6,8 @@ The complete design was simulated, synthesized, and tested on an FPGA board usin
 
 This project was also presented at IEEE ICFT 2025, showcasing the architecture and FPGA implementation.
 
+## 🖼️ Architecture Diagram
+
 ![Architecture Diagram](https://github.com/Aditya3323/8-Bit-Microcontroller-FPGA-Design/blob/main/docs/Block%20Diagram.png)
 
 The block diagram illustrates the complete internal architecture of the custom 8-bit microcontroller designed on FPGA.
@@ -31,7 +33,7 @@ It includes all major functional units and their data/control interconnections:
 
 This diagram represents the full fetch–decode–execute datapath and signal flow, demonstrating how instructions interact with hardware blocks to form a functional microcontroller.
 
-## 📊 FPGA Resource & Power Utilization
+## 📊 FPGA Resource
 
 ![FPGA Utilization](https://github.com/Aditya3323/8-Bit-Microcontroller-FPGA-Design/blob/main/docs/WhatsApp%20Image%202025-08-14%20at%2011.29.48_794570e5.jpg)
 
