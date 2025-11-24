@@ -30,3 +30,21 @@ It includes all major functional units and their data/control interconnections:
  - Data Handler: Central unit responsible for routing ALU outputs, RAM data, and register values based on the instruction fields.
 
 This diagram represents the full fetch–decode–execute datapath and signal flow, demonstrating how instructions interact with hardware blocks to form a functional microcontroller.
+
+## 📊 FPGA Resource & Power Utilization
+
+![FPGA Utilization](https://github.com/Aditya3323/8-Bit-Microcontroller-FPGA-Design/blob/main/docs/WhatsApp%20Image%202025-08-14%20at%2011.29.48_794570e5.jpg)
+
+This table shows the resource utilization after synthesizing and implementing the microcontroller design on the target FPGA device:
+
+ -LUTs (168 used, 0.52%): Indicates very low logic consumption, meaning efficient hardware design.
+
+ -LUTRAM (8 used, 0.08%): Minimal memory LUT usage.
+
+ -Flip-Flops (55 used, 0.08%): Low sequential logic requirement.
+
+ -I/O Pins (18 used, 8.57%): Required for ports, data lines, control signals.
+
+ -BUFG (1 used, 3.13%): Clock buffer usage.
+
+This demonstrates that the microcontroller is resource-efficient, low-power, and thermally stable, making it suitable for FPGA deployment and future scalability.
