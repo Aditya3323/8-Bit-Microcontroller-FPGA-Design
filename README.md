@@ -33,7 +33,7 @@ It includes all major functional units and their data/control interconnections:
 
 This diagram represents the full fetch–decode–execute datapath and signal flow, demonstrating how instructions interact with hardware blocks to form a functional microcontroller.
 
-## 📊 FPGA Resource
+### 📊 FPGA Resource
 
 ![FPGA Utilization](https://github.com/Aditya3323/8-Bit-Microcontroller-FPGA-Design/blob/main/docs/WhatsApp%20Image%202025-08-14%20at%2011.29.48_794570e5.jpg)
 
