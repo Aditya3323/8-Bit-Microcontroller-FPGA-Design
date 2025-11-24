@@ -6,4 +6,4 @@ The complete design was simulated, synthesized, and tested on an FPGA board usin
 
 This project was also presented at IEEE ICFT 2025, showcasing the architecture and FPGA implementation.
 
-![Architecture Diagram](docs/Block Diagram.png)
+![Architecture Diagram](https://github.com/Aditya3323/8-Bit-Microcontroller-FPGA-Design/blob/main/docs/Block%20Diagram.png)
