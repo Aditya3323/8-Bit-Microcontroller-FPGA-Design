@@ -39,14 +39,14 @@ This diagram represents the full fetch–decode–execute datapath and signal fl
 
 This table shows the resource utilization after synthesizing and implementing the microcontroller design on the target FPGA device:
 
- -LUTs (168 used, 0.52%): Indicates very low logic consumption, meaning efficient hardware design.
+- LUTs (168 used, 0.52%): Indicates very low logic consumption, meaning efficient hardware design.
 
- -LUTRAM (8 used, 0.08%): Minimal memory LUT usage.
+- LUTRAM (8 used, 0.08%): Minimal memory LUT usage.
 
- -Flip-Flops (55 used, 0.08%): Low sequential logic requirement.
+- Flip-Flops (55 used, 0.08%): Low sequential logic requirement.
 
- -I/O Pins (18 used, 8.57%): Required for ports, data lines, control signals.
+- I/O Pins (18 used, 8.57%): Required for ports, data lines, control signals.
 
- -BUFG (1 used, 3.13%): Clock buffer usage.
+- BUFG (1 used, 3.13%): Clock buffer usage.
 
 This demonstrates that the microcontroller is resource-efficient, low-power, and thermally stable, making it suitable for FPGA deployment and future scalability.
