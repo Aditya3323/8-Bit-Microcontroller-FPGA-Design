@@ -6,4 +6,4 @@ The complete design was simulated, synthesized, and tested on an FPGA board usin
 
 This project was also presented at IEEE ICFT 2025, showcasing the architecture and FPGA implementation.
 
-![Architecture Diagram](https://raw.githubusercontent.com/yourusername/repo-name/main/docs/architecture.png)
+![Architecture Diagram](docs/Block Diagram.png)
